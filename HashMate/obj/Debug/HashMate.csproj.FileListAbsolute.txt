@@ -1,0 +1,7 @@
+C:\Users\Groma\source\repos\HashMate\HashMate\bin\Debug\HashMate.exe.config
+C:\Users\Groma\source\repos\HashMate\HashMate\bin\Debug\HashMate.exe
+C:\Users\Groma\source\repos\HashMate\HashMate\bin\Debug\HashMate.pdb
+C:\Users\Groma\source\repos\HashMate\HashMate\obj\Debug\HashMate.csprojAssemblyReference.cache
+C:\Users\Groma\source\repos\HashMate\HashMate\obj\Debug\HashMate.csproj.CoreCompileInputs.cache
+C:\Users\Groma\source\repos\HashMate\HashMate\obj\Debug\HashMate.exe
+C:\Users\Groma\source\repos\HashMate\HashMate\obj\Debug\HashMate.pdb
